@@ -8,3 +8,4 @@
 /Infrastructure.EventBus/.vs/Infrastructure.EventBus
 /Infrastructure.EventBus/bin/Debug/net5.0
 /Infrastructure.EventBus/obj
+/.idea/*
