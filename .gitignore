@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/Common.Infrastructure
+/Common.Infrastructure/bin/Debug/net5.0
+/Common.Infrastructure/obj
+/Infrastructure.EventBus/.vs/Infrastructure.EventBus
+/Infrastructure.EventBus/bin/Debug/net5.0
+/Infrastructure.EventBus/obj
